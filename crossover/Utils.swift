@@ -21,4 +21,7 @@ class Utils: NSObject {
         let emailTest = NSPredicate(format:"SELF MATCHES %@", emailRegEx)
         return emailTest.evaluate(with: email)
     }
+    static func isPasswordValided(passowrd:String )-> Bool{
+        return true;
+    }
 }
