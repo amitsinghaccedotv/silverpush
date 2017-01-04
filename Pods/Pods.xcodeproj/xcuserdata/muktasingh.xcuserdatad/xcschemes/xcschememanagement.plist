@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Pods-crossover.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-crossoverTests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-crossoverUITests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>ReachabilityStatus.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>ReachabilitySwift.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>7D117F4FE9DBF0D195D9C4BA91EE3992</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>842D5747A821D7A39BA831E9943640DF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C6CC5DEDBF66EC018DAB8FCF6DD4ED11</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CDBF357FBCB2EA931BE3DE22238762C0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>DB6E9AF4DE693F996853D32C0FF036EA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

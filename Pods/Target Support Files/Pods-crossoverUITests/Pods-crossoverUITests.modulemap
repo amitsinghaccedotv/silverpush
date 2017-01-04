@@ -1,0 +1,6 @@
+framework module Pods_crossoverUITests {
+  umbrella header "Pods-crossoverUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,15 @@
+PODS:
+  - ReachabilityStatus (0.2.0):
+    - ReachabilitySwift
+  - ReachabilitySwift (3)
+
+DEPENDENCIES:
+  - ReachabilityStatus
+
+SPEC CHECKSUMS:
+  ReachabilityStatus: 71e7ebb6b7fa532a8eeb85a86a9490eeba7bbcb5
+  ReachabilitySwift: f5b9bb30a0777fac8f09ce8b067e32faeb29bb64
+
+PODFILE CHECKSUM: fb987172eb909c840a6236be5ad8ac68ab1c6c5b
+
+COCOAPODS: 1.1.1

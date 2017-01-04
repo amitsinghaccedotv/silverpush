@@ -1,0 +1,6 @@
+framework module ReachabilityStatus {
+  umbrella header "ReachabilityStatus-umbrella.h"
+
+  export *
+  module * { export * }
+}
